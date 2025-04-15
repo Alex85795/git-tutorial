@@ -1,2 +1,2 @@
 console.log('iconfig.js');
-console.log('version12');
+console.log('version13');
